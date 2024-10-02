@@ -1,0 +1,14 @@
+2024-09-15 08:13:27,402 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-09-15 08:13:30,524 - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2024-09-15 08:14:32,076 - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2024-09-15 08:14:33,158 - {'role': 'user', 'content': '주제가 뭐야?'}
+2024-09-15 08:14:34,585 - HTTP Request: POST https://api.upstage.ai/v1/solar/chat/completions "HTTP/1.1 200 OK"
+2024-09-15 08:14:35,316 - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2024-09-15 08:14:36,155 - HTTP Request: POST https://api.upstage.ai/v1/solar/chat/completions "HTTP/1.1 200 OK"
+2024-09-15 08:14:39,766 - {'role': 'assistant', 'content': '죄송합니다. 제가 주제를 파악하지 못했습니다. 좀 더 구체적인 질문이나 주제를 제시해 주시면 도움을 드릴 수 있습니다. '}
+2024-09-15 08:15:10,358 - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2024-09-15 08:15:11,436 - {'role': 'user', 'content': 'What is the title?'}
+2024-09-15 08:15:12,906 - HTTP Request: POST https://api.upstage.ai/v1/solar/chat/completions "HTTP/1.1 200 OK"
+2024-09-15 08:15:13,586 - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2024-09-15 08:15:14,405 - HTTP Request: POST https://api.upstage.ai/v1/solar/chat/completions "HTTP/1.1 200 OK"
+2024-09-15 08:15:16,253 - {'role': 'assistant', 'content': '해당 글의 제목은 "30 years of frequent ﬂyer programs"입니다. '}
